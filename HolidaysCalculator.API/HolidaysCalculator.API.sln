@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidaysCalculator.API", "HolidaysCalculator.API.csproj", "{FAC292EA-B3F6-4EA3-A460-A0B1B49B1718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidaysCalculatorWrapper.UnitTest", "..\HolidaysCalculatorWrapper.UnitTest\HolidaysCalculatorWrapper.UnitTest.csproj", "{20378B00-0F6A-4E61-BD25-7ED431EC720B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC292EA-B3F6-4EA3-A460-A0B1B49B1718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC292EA-B3F6-4EA3-A460-A0B1B49B1718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC292EA-B3F6-4EA3-A460-A0B1B49B1718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC292EA-B3F6-4EA3-A460-A0B1B49B1718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20378B00-0F6A-4E61-BD25-7ED431EC720B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20378B00-0F6A-4E61-BD25-7ED431EC720B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20378B00-0F6A-4E61-BD25-7ED431EC720B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20378B00-0F6A-4E61-BD25-7ED431EC720B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1D9F8D4-DCE1-4F7B-9D53-711E1605E845}
+	EndGlobalSection
+EndGlobal
